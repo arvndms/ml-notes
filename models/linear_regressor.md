@@ -357,6 +357,7 @@ Input Features ───► Weighted Sum ───► Prediction
 # 🔑 Ultimate Insight
 
 > Weights don’t need randomness to become different — the data itself makes them different.
+> Closed-form is just gradient descent “solved in one shot” by setting the loss gradient to zero.
 
 ---
 
